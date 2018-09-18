@@ -1,0 +1,15 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+    <PropertyGroup>
+        <PackageId>Vue.OrchardCore</PackageId>
+        <Title>Vue.js Resource for Orchard Core</Title>
+        <Description>Adds Vue.js as a resource to Orchard Core.</Description>
+        <PackageTags>OrchardCore;Vue;Vue.js</PackageTags>
+        <VersionPrefix>1.0.0</VersionPrefix>
+        <VersionSuffix>beta2</VersionSuffix>
+    </PropertyGroup>
+
+    <!-- Called after so that the <VersionSuffix> is built after the local ones -->
+    <Import Project="Common.props"/>
+
+</Project>
