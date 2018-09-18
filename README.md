@@ -2,6 +2,9 @@
 
 Vue.OrchardCore is an Orchard Core CMS Module that provides [Vue.js](https://github.com/vuejs) as a resource.
 
+## Status
+[![Build status](https://ci.appveyor.com/api/projects/status/hdtu0a85wdv4ldhn?svg=true)](https://ci.appveyor.com/project/davidhayden/vue-orchardcore) [![Status](https://img.shields.io/myget/davidhayden-ci/v/Vue.OrchardCore.svg)](https://www.myget.org/feed/davidhayden-ci/package/nuget/Vue.OrchardCore)
+
 ## Resources
 
 | Name | Type | Versions | Dependencies |
