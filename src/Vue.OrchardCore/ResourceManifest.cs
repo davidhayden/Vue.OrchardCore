@@ -8,11 +8,11 @@ namespace Vue.OrchardCore {
             manifest
                 .DefineScript("Vue")
                 .SetUrl("/Vue.OrchardCore/Scripts/vue.min.js", "/Vue.OrchardCore/Scripts/vue.js")
-                .SetCdn("https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js",
-                    "https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js")
-                .SetCdnIntegrity("sha384-OZmxTjkv7EQo5XDMPAmIkkvywVeXw59YyYh6zq8UKfkbor13jS+5p8qMTBSA1q+F",
-                    "sha384-+jvb+jCJ37FkNjPyYLI3KJzQeD8pPFXUra3B/QJFqQ3txYrUPIP1eOfxK4h3cKZP")
-                .SetVersion("2.6.11");
+                .SetCdn("https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js",
+                    "https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js")
+                .SetCdnIntegrity("sha256-KSlsysqp7TXtFo/FHjb1T9b425x3hrvzjMWaJyKbpcI=",
+                    "sha256-FZ8KwMj1F6qnNgA7bhPryVm19xKduH5OVr8u7I1tAtc=")
+                .SetVersion("2.6.12");
         }
     }
 }

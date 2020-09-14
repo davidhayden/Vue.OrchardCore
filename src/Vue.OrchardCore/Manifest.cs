@@ -4,7 +4,7 @@ using OrchardCore.Modules.Manifest;
     Name = "Vue",
     Author = "David Hayden",
     Website = "https://www.davidhayden.me",
-    Version = "2.6.11",
+    Version = "2.6.12",
     Description = "Adds Vue.js as a resource.",
     Category = "Theming"
 )]

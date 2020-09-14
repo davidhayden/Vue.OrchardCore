@@ -9,7 +9,7 @@ Vue.OrchardCore is an Orchard Core CMS Module that provides [Vue.js](https://git
 
 | Name | Type | Versions | Dependencies |
 | ---- | ---- | -------- | ------------ |
-| Vue  | Script | 2.6.11 | - |
+| Vue  | Script | 2.6.12 | - |
 
 ## Usages
 
@@ -22,7 +22,7 @@ Examples using Liquid:
 
 {% script name:"Vue", use_cdn:"true" %}
 
-{% script name:"Vue", version:"2.6.11" %}
+{% script name:"Vue", version:"2.6.12" %}
 ```
 
 Consult the Orchard Core documentation for information on [resources](https://orchardcore.readthedocs.io/en/latest/OrchardCore.Modules/OrchardCore.Resources/README/).
